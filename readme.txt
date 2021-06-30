@@ -1,2 +1,2 @@
 hello everybody!
-create a new branch is so simple.
+create a new branch is so simply.
